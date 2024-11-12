@@ -2,8 +2,8 @@
 
 
 
+![dashboard financeiro](https://github.com/user-attachments/assets/29526c62-3351-4a7f-8ef1-5aacd673a527)
 
-https://github.com/user-attachments/assets/ca106ea8-06eb-4100-b246-492dfa5c52ae
 
 
 Este projeto foi desenvolvido como parte de um trabalho freelancer. A cliente solicitou a extração de informações financeiras de um PDF e a criação de um dashboard interativo para visualização dos dados. Para atender a essa demanda, utilizei **Python** para processar os dados e **Power BI** para criar o dashboard, permitindo uma análise detalhada e intuitiva.
